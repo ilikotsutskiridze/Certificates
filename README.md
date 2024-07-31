@@ -1,2 +1,2 @@
 # Certificates
-В этом репозитории находятся мои сертификаты пройденных обучающих курсов.
+The certificates of the courses that I have completed are stored in this repository
